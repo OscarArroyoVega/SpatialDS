@@ -1,0 +1,15 @@
+.venv/
+.env
+
+.backups
+
+__pycache__
+
+history
+.history
+logs
+*.log
+
+*.lock
+
+*/DataEngineering_and_Visualization/DataEngineering_and_Visualization.gdb//*.lock
